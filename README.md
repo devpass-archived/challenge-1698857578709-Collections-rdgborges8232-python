@@ -1,0 +1,2 @@
+## Collections Challenge
+In this challenge, we're exploring the use of collections in Python. Your task is to implement a function that counts the number of duplicate elements in a given list using collections.
